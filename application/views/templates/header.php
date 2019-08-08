@@ -21,7 +21,7 @@
       <div class="navbar-nav">
         <a class="nav-item nav-link" href="<?php echo base_url('home'); ?>">Home</a>
         <a class="nav-item nav-link" href="<?php echo base_url('mahasiswa'); ?>">Mahasiswa</a>
-        <a class="nav-item nav-link" href="<?php echo base_url('about'); ?>">About</a>
+        <a class="nav-item nav-link" href="<?php echo base_url('#'); ?>">About</a>
       </div>
     </div>
   </div>
